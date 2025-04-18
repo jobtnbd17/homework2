@@ -70,6 +70,7 @@ img {
   justify-content: center;
   align-items: center;
   flex-direction: row;
+  color: white;
 }
 
 .bar {
@@ -123,6 +124,7 @@ img {
   flex-direction: column;
   border-top: 1px solid white;
   /* border-inline: 80%; */
+  margin: auto;
 }
 .home {
   
